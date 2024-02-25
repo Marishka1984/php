@@ -1,2 +1,2 @@
 # php
-It stydu php
+Учебный проект
